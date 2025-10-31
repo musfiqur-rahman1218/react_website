@@ -1,16 +1,55 @@
-# React + Vite
+# 🌐 Personal Portfolio — Md. Musfiqur Rahman
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my **personal portfolio website** built using **React (Vite)** and **Bootstrap 5**.  
+It showcases my **background**, **skills**, and a unique **“My Town”** page that displays live weather information for **Dhaka** using a free weather API.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- 🎨 **Responsive Design** — Built with Bootstrap 5 for seamless layout across all devices  
+- 🙋‍♂️ **About Me Section** — Highlights academic background and personal introduction  
+- ⚙️ **Skills Section** — Displays key technical skills using recognizable technology logos  
+- 🌦 **My Town Page** — Shows live weather for Dhaka with °C / °F toggle and custom icons  
+- ⚡ **Fast Build** — Powered by Vite for rapid development and optimized deployment  
+- 🧩 **Modular Components** — Navbar, Footer, and all sections built as reusable React components  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Category | Tools |
+|-----------|--------|
+| **Frontend** | React 18 (Vite) |
+| **Styling** | Bootstrap 5 |
+| **Icons** | Bootstrap Icons, Weather Icons |
+| **Deployment** | GitHub Pages |
+| **Version Control** | Git + GitHub |
+
+---
+
+## 🧑‍💻 Author
+
+**Md. Musfiqur Rahman**  
+MSc CDA Student, Saint Mary’s University (Halifax, Canada)  
+📫 Email: musfiqurrahman1218@gmail.com  
+
+
+---
+
+## ⚙️ Setup Instructions
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/musfiqur-rahman1218/react-portfolio.git
+
+# Navigate to the project folder
+cd react-portfolio/workspaces/portfolio-bootstrap
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
