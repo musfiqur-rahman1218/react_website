@@ -1,0 +1,10 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background-color: #f8f9fa;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+section {
+  transition: all 0.3s ease;
+}
