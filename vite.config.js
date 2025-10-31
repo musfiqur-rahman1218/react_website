@@ -1,7 +1,10 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
 
+// ✅ Correct configuration for both local and GitHub Pages
 export default defineConfig({
-  base: '/react-project/', // 👈 update this to match your new repo name
   plugins: [react()],
-})
+  base: process.env.NODE_ENV === 'production'
+    ? '/react_website/'   // 👈 your GitHub repo name
+    : '/',
+});
