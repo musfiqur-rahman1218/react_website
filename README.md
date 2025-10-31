@@ -32,24 +32,8 @@ It showcases my **background**, **skills**, and a unique **“My Town”** page 
 
 **Md. Musfiqur Rahman**  
 MSc CDA Student, Saint Mary’s University (Halifax, Canada)  
-📫 Email: musfiqurrahman1218@gmail.com  
+📫 Email: musfiqurrahman1620@gmail.com  
 
 
 ---
 
-## ⚙️ Setup Instructions
-
-To run this project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/musfiqur-rahman1218/react-portfolio.git
-
-# Navigate to the project folder
-cd react-portfolio/workspaces/portfolio-bootstrap
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
