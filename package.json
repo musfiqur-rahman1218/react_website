@@ -2,7 +2,7 @@
   "name": "portfolio-bootstrap",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://musfiqur-rahman1218.github.io/react_website/",
+  "homepage": "https://musfiqur-rahman1218.github.io/react-project/",
   "type": "module",
   "scripts": {
     "dev": "vite",
